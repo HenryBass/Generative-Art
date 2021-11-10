@@ -16,3 +16,11 @@ Here\'s how it works:
 6. Finally, goes through the image and draws the "Shapes" in a grid!
 
 ## Have fun messing around with it, and show me what you find!
+
+Examples:
+
+![](/Examples/Example1.png)
+
+![](/Examples/Example2.png)
+
+![](/Examples/Example3.png)
